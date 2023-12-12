@@ -1,4 +1,4 @@
-#!/usr/bin/env sh
+#!/usr/bin/env bash
 
 SCRIPT=$(basename "$0")
 VERSION="1.0"
